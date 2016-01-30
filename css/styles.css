@@ -18,12 +18,16 @@ h1{
 
 }
 
-
+#annoyed{
+  margin-bottom: 24px;
+}
 #doit{
   width: 392px;
   height: 44px;
   text-align: center;
-  background-color: blue;
+  background-color: #00aced;
+  vertical-align: middle;
+
 }
 
 #center{
