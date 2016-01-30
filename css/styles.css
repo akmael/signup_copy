@@ -1,0 +1,38 @@
+form{
+  text-align: center;
+}
+
+
+}
+h1{
+  margin-bottom: 24px;
+  padding-bottom: 24px;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+.txt-resize{
+  width: 392px;
+  height: 42px;
+  margin-bottom: 26px;
+
+
+}
+
+
+#doit{
+  width: 392px;
+  height: 44px;
+  text-align: center;
+  background-color: blue;
+}
+
+#center{
+  position:fixed;
+  top:180px;
+  left:540px;
+  background-color: #00f;
+  margin: auto;
+  width: 392px;
+  height: 396px;
+  padding: 20px;
+}
