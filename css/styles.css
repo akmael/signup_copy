@@ -4,6 +4,9 @@ body{
 form{
   text-align: center;
 }
+a{
+  text-decoration: none;
+}
 .elements input:placeholder{
   font-size: 20px;
 }
@@ -17,8 +20,6 @@ form{
   width: 392px;
   height: 42px;
   margin-bottom: 26px;
-
-
 }
 .top{
   display: inline-block;
@@ -43,12 +44,19 @@ form{
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00aced', endColorstr='#38cf95',GradientType=1 ); /* IE6-9 */
 
 }
+#bird{
+  display: inline-block;
+  position: absolute;
+  left: 700px;
+  top: 8px;
+}
 
 #annoyed{
   margin-bottom: 24px;
   font-size: 30px;
-  font-family: sans-serif;
+  font-weight: 100;
 }
+
 #doit{
   width: 392px;
   height: 44px;
@@ -90,8 +98,8 @@ form{
 }
 #center{
   position:fixed;
-  top:180px;
-  left:540px;
+  top:150px;
+  left:485px;
 
   margin: auto;
   width: 392px;
